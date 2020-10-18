@@ -1,0 +1,8 @@
+#hrWhite {
+    background-color: white;
+}
+
+.scroll {
+    height: 500px;
+    overflow-y: scroll;
+}

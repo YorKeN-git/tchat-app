@@ -1,0 +1,13 @@
+footer {
+    background-color: grey;
+    color: white;
+}
+
+#border {
+    border-top: solid 1px white;
+}
+
+img {
+    width: 36px;
+    height: 36px;
+}
